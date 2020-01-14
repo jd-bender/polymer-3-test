@@ -1,0 +1,13 @@
+{
+  "name": "Polymer 3 Test Converter",
+  "authors": [
+    "jbender <jdbender64@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "paper-input": "PolymerElements/paper-input#2.0-preview"
+  }
+}
